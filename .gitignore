@@ -1,0 +1,8 @@
+app/build/
+app/chargeport.apk
+package/app/chargeport.apk
+*.jks
+*.keystore
+android-sdk/
+local.properties
+.DS_Store

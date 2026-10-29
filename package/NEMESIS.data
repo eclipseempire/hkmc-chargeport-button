@@ -1,0 +1,11 @@
+[nemesis]
+version=1.0
+id=chargeport.button
+name=Charge Port Button
+types=application
+
+[app.0]
+kind=apk
+path=app/chargeport.apk
+package=com.nemesis.chargeport
+component=com.nemesis.chargeport/.MainActivity
