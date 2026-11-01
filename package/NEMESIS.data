@@ -1,8 +1,12 @@
 [nemesis]
-version=1.0
+version=1.1
 id=chargeport.button
 name=Charge Port Button
-types=application
+type=application
+package-version=1.0.1
+short-desc="Open the charge port with a triple-press of MAP"
+os="*.260507"
+models=any
 
 [app.0]
 kind=apk
